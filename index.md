@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+<script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
+##  Francke Peixoto
+<span class="iconify" data-icon="fa-brands:kaggle" data-inline="false"></span>
 
 You can use the [editor on GitHub](https://github.com/franckepeixoto/franckepeixoto.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
