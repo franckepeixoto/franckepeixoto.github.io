@@ -4,4 +4,4 @@
 ### [Medium](https://medium.com/@franckepeixoto)
 ### [Repository](https://github.com/franckepeixoto)
 
-🧱 Cogito, ergo sum
+🧱 Cogito, ergo sum...
