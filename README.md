@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/Marcelofcdantas">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=franckepeixoto&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franckepeixoto&layout=compact&langs_count=17&theme=merko"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=franckepeixoto&show_icons=true&theme=mandrak&include_all_commits=true&count_private=true"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franckepeixoto&layout=compact&langs_count=17&theme=mandrak"/>
 
     
     
