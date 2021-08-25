@@ -4,9 +4,8 @@
 <h4 align="center">🎯 Continuous learning...</h4>
 
 <div align="center">
-  <a align="center" href="https://github.com/Marcelofcdantas">
+  <a align="center" href="https://github.com/franckepeixoto">
   <img align="center" height="110em" src="https://github-readme-stats.vercel.app/api?username=franckepeixoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franckepeixoto&layout=compact&langs_count=17&theme=dark"/>
 
 </div>
 
