@@ -1,7 +1,7 @@
 <h3>Hi 🗣️!</h3>
 <h3>I'm Francke Peixoto✔️</h3>
-<h4 align="center">a technology  of enthusiast</h4> 
-<h4 align="center">🧩{machine learning, developer,finance...}</h3>
+<h4>a technology  of enthusiast</h4> 
+<h4>🧩{machine learning, developer,finance...}</h3>
 <h5 align="center">🎯 Continuous learning...</h5>
 
 <div align="center">
